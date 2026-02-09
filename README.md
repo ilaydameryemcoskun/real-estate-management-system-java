@@ -5,7 +5,7 @@ It allows real estate consultants and customers to manage property listings, off
 
 ---
 
-## 📌 Project Description
+## Project Description
 
 The system is designed to digitalize basic real estate operations such as:
 - Property listing management
@@ -17,7 +17,7 @@ The application is implemented as a **Java Swing desktop application** and follo
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - **Java**
 - **Java Swing (GUI)**
@@ -27,7 +27,7 @@ The application is implemented as a **Java Swing desktop application** and follo
 
 ---
 
-## 👥 User Roles
+## User Roles
 
 ### Consultant
 - Add, update, and delete property listings
@@ -44,21 +44,21 @@ The application is implemented as a **Java Swing desktop application** and follo
 
 ---
 
-## 📄 Sample Data
+## Sample Data
 
 The project includes **sample (dummy) data files** to demonstrate system functionality.  
 All sample users and records are fictional and created only for demonstration purposes.
 
 ---
 
-## 🎓 Academic Context (TR)
+## Academic Context (TR)
 
 Bu proje, **Nesne Yönelimli Programlama** dersi kapsamında geliştirilmiştir.  
 Amaç, Java dili kullanılarak OOP prensiplerini gerçek hayat senaryosu üzerinden uygulamaktır.
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Open the project in **Eclipse IDE**
 2. Run the main application class
@@ -66,7 +66,7 @@ Amaç, Java dili kullanılarak OOP prensiplerini gerçek hayat senaryosu üzerin
 
 ---
 
-## ✨ Author
+## Author
 
 **İlayda Meryem Coşkun**  
 Computer Engineering Student
